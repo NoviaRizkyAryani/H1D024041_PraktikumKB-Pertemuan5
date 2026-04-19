@@ -23,6 +23,6 @@ Aplikasi ini mengadopsi tiga komponen utama sistem pakar:
 6. Hasil analisis medis akan muncul secara otomatis melalui pop-up message box di akhir sesi.
 
 ## Komponen Kode
-* 'database_tht': Objek dictionary yang menyimpan jenis penyakit dengan kombinasi kode gejala (G1-G37).
-* 'daftar_gejala': Sekumpulan data berisi daftar pertanyaan yang telah disesuaikan agar mudah dipahami.
-* 'AplikasiPakarTHT': Kelas utama yang menghandle seluruh logika program, mulai dari manajemen state antarmuka hingga proses eksekusi mesin inferensi.
+* `database_tht`: Objek dictionary yang menyimpan jenis penyakit dengan kombinasi kode gejala (G1-G37).
+* `daftar_gejala`: Sekumpulan data berisi daftar pertanyaan yang telah disesuaikan agar mudah dipahami.
+* `AplikasiPakarTHT`: Kelas utama yang menghandle seluruh logika program, mulai dari manajemen state antarmuka hingga proses eksekusi mesin inferensi.
